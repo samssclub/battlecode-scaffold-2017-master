@@ -1,0 +1,10 @@
+products:
+   C:\Users\60418904\Desktop\battlecode-scaffold-2017-master\test\examplefuncsplayer\RobotPlayerTest.java -> C:\Users\60418904\Desktop\battlecode-scaffold-2017-master\build\tests\examplefuncsplayer\RobotPlayerTest.class
+binary dependencies:
+   C:\Users\60418904\Desktop\battlecode-scaffold-2017-master\test\examplefuncsplayer\RobotPlayerTest.java -> C:\Program Files\Java\jdk1.8.0_20\jre\lib\rt.jar
+   C:\Users\60418904\Desktop\battlecode-scaffold-2017-master\test\examplefuncsplayer\RobotPlayerTest.java -> C:\Users\60418904\.gradle\caches\modules-2\files-2.1\org.battlecode\battlecode\2017.1.1.2\525ba069278ea3403dc86bf57af5d633b02ad0ce\battlecode-2017.1.1.2.jar
+source dependencies:
+   C:\Users\60418904\Desktop\battlecode-scaffold-2017-master\test\examplefuncsplayer\RobotPlayerTest.java -> C:\Users\60418904\Desktop\battlecode-scaffold-2017-master\test\examplefuncsplayer\RobotPlayerTest.java
+external dependencies:
+class names:
+   C:\Users\60418904\Desktop\battlecode-scaffold-2017-master\test\examplefuncsplayer\RobotPlayerTest.java -> examplefuncsplayer.RobotPlayerTest
